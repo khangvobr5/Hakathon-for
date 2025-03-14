@@ -1,0 +1,24 @@
+header{
+    display: flex;justify-content: center;
+}
+.one{
+    margin-left: 450px;
+}
+.two{
+    border: hidden;border-radius: 5px;background-color: #111827;color: aliceblue;
+}
+.three{
+    display: flex;justify-content: center;margin-top: 40px;
+}
+.four{
+    font-size: 45px;
+    img{
+        height: 50px;width: 50px;
+    }
+}
+.five{
+    color: #787f8a;width: 650px;
+}
+.six{
+    
+}
